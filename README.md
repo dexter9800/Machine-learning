@@ -1,6 +1,8 @@
 # Sentimental analysis
 Restaurant review (Sentimental analysis)
+
 Table of Contents
+
 1.Introduction
 2.Working with dataset
 3.Import Count Vectorizer
