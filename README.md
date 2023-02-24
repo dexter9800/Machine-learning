@@ -1,4 +1,4 @@
-# Machine-learning
+# Sentimental analysis
 Restaurant review (Sentimental analysis)
 Table of Contents
 1.Introduction
